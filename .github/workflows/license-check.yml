@@ -24,4 +24,4 @@ jobs:
 
       - name: Scan for licenses
         id: trivy-scan
-        run: |
+        run: | #shut
